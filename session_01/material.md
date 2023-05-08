@@ -1,17 +1,16 @@
 # Session 01: Mathematical Induction
 
-## Email: mohdakram.ansari@ucalgary.ca
+#### Email: mohdakram.ansari@ucalgary.ca
+#### Tutorials:
+- T01 (12:00 - 2:00 PM)
+- T02 (2:00 - 4:00 PM)
+
+---
 
 ## Agenda
 
 1. Mathematical Induction, strong and week
 2. Loop Invariants
-
----
-
-#### Tutorials:
-- T01 (12:00 - 2:00 PM)
-- T02 (2:00 - 4:00 PM)
 
 ---
 ## 1. Mathematical Induction (Weak)
