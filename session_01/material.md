@@ -92,8 +92,8 @@ Loop Invariant: After the t’th iteration, $y = 2^i$
 Base Case: After 0 iterations (t=0), y = 1 and i = 0
 
 Induction: 
-- $y_B$, $i_B$ : Value of y and b after t'th iteration (Before t+1'st iteration)
-- $y_A$, $i_A$ : Value of y and b after t+1'st iteration.
+- $y_B$, $i_B$ : Value of y and i after t'th iteration (Before t+1'st iteration)
+- $y_A$, $i_A$ : Value of y and i after t+1'st iteration.
 - Assume, $y_B = 2^{i_B}$ holds before the (t+1)'st iteration.
 - After (t+1) iteration:
     - Let, $y_A =  2{y_B}$
@@ -113,7 +113,6 @@ the guard fails.
 - Since, $y_A = 2y_B$, 
 - $y_B < x \le 2y_B$
 - $2^i < x \le 2*2^{i}$
-- $2^i < x \le 2^{i+1}$
 - $2^i < x \le 2^{i+1}$
 - $i < log_2(x) \le i+1$
 
