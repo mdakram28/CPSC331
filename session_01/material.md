@@ -28,9 +28,9 @@ f(n: nonnegative integer)
     else return n*f(n − 1)
 ```
 
-$$
+```math
 \text{Given: } f(n) = n*(n-1)*(n-2)*...*1
 \\
 (n+1) * f(n) = (n+1)*n*(n-1)*(n-2)*...*1
 f(n+1) = (n+1)*n*(n-1)*(n-2)*...*1
-$$
+```
