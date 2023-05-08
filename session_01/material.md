@@ -9,7 +9,9 @@
 
 ---
 
-#### Tutorials: T01 (12:00 - 2:00 PM), T02 (2:00 - 4:00 PM)
+#### Tutorials:
+- T01 (12:00 - 2:00 PM)
+- T02 (2:00 - 4:00 PM)
 
 ---
 ## 1. Mathematical Induction (Weak)
